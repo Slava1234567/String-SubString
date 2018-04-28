@@ -45,8 +45,6 @@
 		F9F289472088F5FD00F8ABF3 = {
 			isa = PBXGroup;
 			children = (
-				F9F289692088F66200F8ABF3 /* MyClass.h */,
-				F9F2896A2088F66200F8ABF3 /* MyClass.m */,
 				F9F289522088F5FD00F8ABF3 /* NSString */,
 				F9F289512088F5FD00F8ABF3 /* Products */,
 			);
@@ -65,6 +63,8 @@
 			children = (
 				F9F289532088F5FD00F8ABF3 /* AppDelegate.h */,
 				F9F289542088F5FD00F8ABF3 /* AppDelegate.m */,
+				F9F289692088F66200F8ABF3 /* MyClass.h */,
+				F9F2896A2088F66200F8ABF3 /* MyClass.m */,
 				F9F289562088F5FD00F8ABF3 /* ViewController.h */,
 				F9F289572088F5FD00F8ABF3 /* ViewController.m */,
 				F9F289592088F5FD00F8ABF3 /* Main.storyboard */,
